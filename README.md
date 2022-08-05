@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 * 💻 Develop on ![MacOS](https://img.shields.io/badge/Macbook_Pro-M1_Pro-orange?logo=apple)  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode)  ![GoLand](https://img.shields.io/badge/GoLand-black?logo=goland)  ![CLion](https://img.shields.io/badge/CLion-black?logo=clion)  ![PyCharm](https://img.shields.io/badge/PyCharm-black?logo=pycharm).  
 * 📫 You can contact with me towards [![Email](https://img.shields.io/badge/Email-zshadowest@gmail.com-gray?logo=gmail&style=social&color=gray)](mailto:zshadowest@gmail.com).  
 * ⚡ Love coding, advocate open source, believe 'technology changes the world'.  
+
+| <a href="https://github.com/DrakenLibra"><img align="center" src="https://github-readme-stats.vercel.app/api?username=DrakenLibra&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" /></a> | <a href="https://github.com/DrakenLibra"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DrakenLibra&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| ------------- | ------------- |
