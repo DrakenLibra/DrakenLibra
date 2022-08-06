@@ -22,5 +22,5 @@ Here are some ideas to get you started:
 * 📫 You can contact with me towards [![Email](https://img.shields.io/badge/Email-zshadowest@gmail.com-gray?logo=gmail&style=social&color=gray)](mailto:zshadowest@gmail.com).  
 * ⚡ Love coding, advocate open source, believe 'technology changes the world'.  
 
-| <a href="https://github.com/DrakenLibra"><img align="center" src="https://github-readme-stats-5h2dts7ie-drakenlibra.vercel.app/api?username=DrakenLibra&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/DrakenLibra"><img align="center" src="https://github-readme-stats-5h2dts7ie-drakenlibra.vercel.app/api/top-langs/?username=DrakenLibra&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
+| <a href="https://github.com/DrakenLibra"><img align="center" src="https://github-readme-stats-rose-eta-31.vercel.app/api?username=DrakenLibra&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/DrakenLibra"><img align="center" src="https://github-readme-stats-rose-eta-31.vercel.app/api/top-langs/?username=DrakenLibra&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
 | ------------- | ------------- |
