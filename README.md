@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-* 🎓 First-year master student （渣硕） majoring in computer science and technology at [BUPT(Beijing University of Posts and Telecommunications)](https://www.bupt.edu.cn/).  
+* 🎓 First-year master student majoring in computer science and technology at [BUPT(Beijing University of Posts and Telecommunications)](https://www.bupt.edu.cn/).  
 * 🌱 Research in computer network (transmission protocol, scheduling algorithm, cellular network, etc) and cloud computing.  
 * 🔭 Know a little about ![Golang](https://img.shields.io/badge/Golang-gray?logo=GO)  ![C++/C](https://img.shields.io/badge/C++/C-gray?logo=cplusplus)  ![Python](https://img.shields.io/badge/Python-gray?logo=python)  ![QUIC](https://img.shields.io/badge/QUIC-gray?logo=countingworkspro)  ![TCP](https://img.shields.io/badge/TCP-gray?logo=countingworkspro)  ![Flask](https://img.shields.io/badge/Flask-gray?logo=flask)  ![Git](https://img.shields.io/badge/Git-gray?logo=git).  
 * 💻 Develop on ![MacOS](https://img.shields.io/badge/Macbook_Pro-M1_Pro-orange?logo=apple)  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode)  ![GoLand](https://img.shields.io/badge/GoLand-black?logo=goland)  ![CLion](https://img.shields.io/badge/CLion-black?logo=clion)  ![PyCharm](https://img.shields.io/badge/PyCharm-black?logo=pycharm).  
