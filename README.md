@@ -1,6 +1,7 @@
-### 👋 Hi there ![](https://visitor-badge.glitch.me/badge?page_id=DrakenLibra.DrakenLibra)
+### 👋 Hi there
 
 <!--
+👋 Hi there ![](https://visitor-badge.glitch.me/badge?page_id=DrakenLibra.DrakenLibra)
 **DrakenLibra/DrakenLibra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -13,12 +14,13 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
+
+* 💻 Develop on ![MacOS](https://img.shields.io/badge/Macbook-M1-orange?logo=apple)  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode)  ![GoLand](https://img.shields.io/badge/GoLand-black?logo=goland).
 -->
 
-* 🎓 First-year master student majoring in computer science and technology at [BUPT(Beijing University of Posts and Telecommunications)](https://www.bupt.edu.cn/).  
+* 🎓 First-year master student (渣硕) majoring in computer science and technology at [BUPT(Beijing University of Posts and Telecommunications)](https://www.bupt.edu.cn/).  
 * 🌱 Research in computer network (transmission protocol, scheduling algorithm, cellular network, etc) and cloud computing.  
-* 🔭 Know a little about ![Golang](https://img.shields.io/badge/Golang-gray?logo=GO)  ![C++/C](https://img.shields.io/badge/C++/C-gray?logo=cplusplus)  ![Python](https://img.shields.io/badge/Python-gray?logo=python)  ![QUIC](https://img.shields.io/badge/QUIC-gray?logo=countingworkspro)  ![TCP](https://img.shields.io/badge/TCP-gray?logo=countingworkspro)  ![Git](https://img.shields.io/badge/Git-gray?logo=git).  
-* 💻 Develop on ![MacOS](https://img.shields.io/badge/Macbook-M1-orange?logo=apple)  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode)  ![GoLand](https://img.shields.io/badge/GoLand-black?logo=goland).  
+* 🔭 Know a little about ![Golang](https://img.shields.io/badge/Golang-gray?logo=GO)  ![C++/C](https://img.shields.io/badge/C++/C-gray?logo=cplusplus)  ![QUIC](https://img.shields.io/badge/QUIC-gray?logo=countingworkspro)  ![TCP](https://img.shields.io/badge/TCP-gray?logo=countingworkspro).    
 * 📫 You can contact with me towards [![Email](https://img.shields.io/badge/Email-zshadowest@gmail.com-gray?logo=gmail&style=social&color=gray)](mailto:zshadowest@gmail.com)  [![GithubPages](https://img.shields.io/badge/Blog-DrakenLibra.github.io-gray?logo=githubpages&style=social&color=gray)](https://drakenlibra.github.io/).  
 * ⚡ Love coding and advocate open source.  
 
