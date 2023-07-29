@@ -23,6 +23,3 @@ Here are some ideas to get you started:
 * 🔭 Know a little about ![Golang](https://img.shields.io/badge/Golang-gray?logo=GO)  ![C++/C](https://img.shields.io/badge/C++/C-gray?logo=cplusplus)  ![QUIC](https://img.shields.io/badge/QUIC-gray?logo=countingworkspro)  ![TCP](https://img.shields.io/badge/TCP-gray?logo=countingworkspro).    
 * 📫 You can contact with me towards [![Email](https://img.shields.io/badge/Email-zshadowest@gmail.com-gray?logo=gmail&style=social&color=gray)](mailto:zshadowest@gmail.com).  
 * ⚡ Love coding and advocate open source.  
-
-| <a href="https://github.com/DrakenLibra"><img align="center" src="https://github-readme-stats-rose-eta-31.vercel.app/api?username=DrakenLibra&count_private=true&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" /></a> | <a href="https://github.com/DrakenLibra"><img align="center" src="https://github-readme-stats-rose-eta-31.vercel.app/api/top-langs/?username=DrakenLibra&layout=compact&theme=buefy&hide_border=true&count_private=true" /></a> |
-| ------------- | ------------- |
