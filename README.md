@@ -19,7 +19,8 @@ Here are some ideas to get you started:
 -->
 
 * 🎓 First-year master student majoring in computer science and technology at [BUPT(Beijing University of Posts and Telecommunications)](https://www.bupt.edu.cn/).  
-* 🌱 Research in computer network (transmission protocol, scheduling algorithm, cellular network, etc) and cloud computing.  
+* 🌱 Research in computer network (e.g., transmission protocol, congestion control, scheduling algorithm, network management).
+* :mag_right: Interested in high performance network (low latency and high throughout) and network stack in Linux kernel (including eBPF and RDMA). 
 * 🔭 Know a little about ![Golang](https://img.shields.io/badge/Golang-gray?logo=GO)  ![C++/C](https://img.shields.io/badge/C++/C-gray?logo=cplusplus)  ![QUIC](https://img.shields.io/badge/QUIC-gray?logo=countingworkspro)  ![TCP](https://img.shields.io/badge/TCP-gray?logo=countingworkspro).    
 * 📫 You can contact with me towards [![Email](https://img.shields.io/badge/Email-zshadowest@gmail.com-gray?logo=gmail&style=social&color=gray)](mailto:zshadowest@gmail.com).  
 * ⚡ Love coding and advocate open source.  
