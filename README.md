@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * 💻 Develop on ![MacOS](https://img.shields.io/badge/Macbook-M1-orange?logo=apple)  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode)  ![GoLand](https://img.shields.io/badge/GoLand-black?logo=goland).
 -->
 
-* 🎓 First-year master student majoring in computer science and technology at [BUPT(Beijing University of Posts and Telecommunications)](https://www.bupt.edu.cn/).  
+* 🎓 Second-year master student majoring in computer science and technology at [BUPT(Beijing University of Posts and Telecommunications)](https://www.bupt.edu.cn/).  
 * 🌱 Research in computer network (e.g., transmission protocol, congestion control, scheduling algorithm, network management).
 * :mag_right: Interested in high performance network (low latency and high throughout) and network stack in Linux kernel (including eBPF and RDMA). 
 * 🔭 Know a little about ![Golang](https://img.shields.io/badge/Golang-gray?logo=GO)  ![C++/C](https://img.shields.io/badge/C++/C-gray?logo=cplusplus)  ![QUIC](https://img.shields.io/badge/QUIC-gray?logo=countingworkspro)  ![TCP](https://img.shields.io/badge/TCP-gray?logo=countingworkspro).    
