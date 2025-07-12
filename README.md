@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 * 💻 Develop on ![MacOS](https://img.shields.io/badge/Macbook-M1-orange?logo=apple)  ![VSCode](https://img.shields.io/badge/Visual_Studio_Code-black?logo=visualstudiocode)  ![GoLand](https://img.shields.io/badge/GoLand-black?logo=goland).
 -->
 
-* 🌱 Research high performance network and LLM infrastructure in an Internet company.
+* 🌱 Working for improving high performance network and LLM infrastructure in an Internet company.
 * 🎓 Already graduated with a master's degree in computer science and technology from [BUPT(Beijing University of Posts and Telecommunications)](https://www.bupt.edu.cn/).  
 * 📫 You can contact with me towards [![Email](https://img.shields.io/badge/Email-zshadowest@gmail.com-gray?logo=gmail&style=social&color=gray)](mailto:zshadowest@gmail.com).  
 * ⚡ Interested in coding and advocate open source.  
